@@ -1,0 +1,23 @@
+body {
+    background-color: #EED5D2
+}
+
+
+
+ul{color:bisque;
+    list-style: none;
+    background-color: black;
+        }
+#menu ul li{
+    display: inline;
+}
+menu {
+    color: whitesmoke;
+    
+}
+#menu ul a{
+    padding:10px 100px;
+    display: inline-block;
+    text-decoration: none;
+}
+a{background-color: white;}
